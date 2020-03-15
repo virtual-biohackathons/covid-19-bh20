@@ -5,19 +5,15 @@
 Over the internet we are organizing the *COVID-19 Biohackathon April
 5-11 2020*!
 
-Please join us for a week of online work.
-
-The organizers.
-
 # Goals
 
-The goal of COVID-19-BH20 is to get the best names in the field to
-work on tooling for COVID-19 analysis. The effort will lead to more
+The goal of COVID-19-BH20 is to create a cohesive effort and work on
+tooling for COVID-19 analysis. The biohackathon will lead to more
 readily accessible data, protocols, detection kits, protein
 predictions etc.
 
-We will push for policy change where it comes to non-public or hard to
-access data because we are facing such challenges!
+We will also push for policy change where it comes to non-public or
+hard to access data because we are facing such challenges!
 
 # Free software, free data
 
@@ -26,17 +22,20 @@ open data for scientific endeavour and biomedical progress.
 
 # When?
 
-The biohackathon wil run from April 5th-11th 2020.
+The biohackathon wil run from April 5th-11th 2020. Before that time
+working groups will start preparations. After the biohackathon
+collaborations often continue.
 
 # How?
 
-Over the internet we are forming groups with [topics](https://github.com/virtual-biohackathons/covid-19-bh20/wiki) to work on. There
-will be working groups for FAIR data, workflows and pipelines,
-pangenomes and variation graphs, machine learning, text mining and
-visualisations. You can create your own group and get people
-interested in your area of work. We will use video conferencing,
-E-mail, IRC, messaging, wiki's and source code repositories to make it
-all happen.
+Over the internet we are forming groups with
+[topics](https://github.com/virtual-biohackathons/covid-19-bh20/wiki)
+to work on. There will be working groups for FAIR data, workflows and
+pipelines, pangenomes and variation graphs, machine learning, text
+mining and visualisations. You can create your own group and get
+people interested in your area of work. We will use video
+conferencing, E-mail, IRC, messaging, wiki's and source code
+repositories to make it all happen.
 
 # Examples
 
@@ -64,8 +63,8 @@ coordinating team:
 
 # Coordinating team
 
-Pjotr Prins, USA (pjotr.public708@thebird.nl)
-Tazro Ohta, Japan
+1. Pjotr Prins, USA (pjotr.public708@thebird.nl)
+2. Tazro Ohta, Japan
 
 # Contribute
 
