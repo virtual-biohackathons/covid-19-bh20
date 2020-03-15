@@ -46,6 +46,8 @@ public repositories of (raw) data - that people can contribute to - as
 well as workflows that can be run by anyone (in the cloud) are
 all concrete outcomes.
 
+The following wiki page lists known [resources](https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Resources).
+
 # Who?
 
 Anyone can join and contribute. Thanks to the annual biohackathons in
