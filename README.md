@@ -52,7 +52,10 @@ Anyone can join and contribute. Thanks to the annual biohackathons in
 Japan and Europe we already have an experienced community. One benefit
 of this virtual biohackathon is that we can expand and be as inclusive
 as possible. Even if you are a student and not so experienced you can
-sign-up and contribute! All hands are welcome.
+sign-up and contribute! All hands are welcome!
+
+To participate sign up [here](https://docs.google.com/spreadsheets/d/1auS0C58W0KHuqPg7-qKzgO4QjvcXpRg2NxhPu9EcWfI/edit), become a member of
+the [mailing list](https://groups.google.com/forum/#!forum/virtual-biohackathon) and add to the [wiki](https://github.com/virtual-biohackathons/covid-19-bh20/wiki)!
 
 # Code of conduct
 
