@@ -74,7 +74,7 @@ coordinating team:
 
 # Contribute
 
-Contribute by added and/or signing up to ideas on the Biohackathon
+Contribute by adding and/or signing up to ideas on the Biohackathon
 [Wiki](https://github.com/virtual-biohackathons/covid-19-bh20/wiki). You can also edit these pages and send a pull request.
 
 # Contact
