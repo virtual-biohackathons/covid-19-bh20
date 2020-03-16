@@ -1,4 +1,4 @@
-![alt text](./covid19biohackathon.png "covid-19-bh20")
+![Biohackathon](./covid19biohackathon.png "covid-19-bh20")
 
 # covid-19-bh20
 
@@ -15,7 +15,12 @@ predictions etc.
 We will also push for policy change where it comes to non-public or
 hard to access data because we are facing such challenges!
 
+
 # Free software, free data
+
+![Alt](image.jpg#right)
+
+![BH logo](./covid-19-bh20.png#right "covid-19-bh20")
 
 The biohackathon is about applying free and open source software on
 open data for scientific endeavour and biomedical progress.
