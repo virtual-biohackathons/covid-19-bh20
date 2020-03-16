@@ -69,7 +69,7 @@ coordinating team:
 # Coordinating team
 
 1. Pjotr Prins, USA (pjotr.public708@thebird.nl)
-2. Tazro Ohta, Japan
+2. [Tazro Ohta](https://github.com/inutano), Japan (t.ohta@dbcls.rois.acjp)
 3. Leyla Garcia, Germany
 
 # Contribute
