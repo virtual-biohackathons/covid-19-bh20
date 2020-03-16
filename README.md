@@ -18,10 +18,6 @@ hard to access data because we are facing such challenges!
 
 # Free software, free data
 
-<div style="text-align:right" markdown="1">
-![BH logo](./covid-19-bh20.png#right "covid-19-bh20")
-</div>
-
 The biohackathon is about applying free and open source software on
 open data for scientific endeavour and biomedical progress.
 
@@ -85,3 +81,5 @@ Contribute by added and/or signing up to ideas on the Biohackathon
 # Contact
 
 Sign up with the [mailing list](https://groups.google.com/forum/#!forum/virtual-biohackathon) and ask!
+
+![BH logo](./covid-19-bh20.png "covid-19-bh20")
