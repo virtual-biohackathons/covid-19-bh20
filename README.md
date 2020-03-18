@@ -82,4 +82,6 @@ Contribute by adding and/or signing up to ideas on the Biohackathon
 
 Sign up with the [mailing list](https://groups.google.com/forum/#!forum/virtual-biohackathon) and ask!
 
+![Twitter covid_19_bh20](./twitter.gif "covid_19_bh20") #covid_19_bh20
+
 ![BH logo](./covid-19-bh20.png "covid-19-bh20")
