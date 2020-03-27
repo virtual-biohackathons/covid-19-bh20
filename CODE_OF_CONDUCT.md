@@ -1,3 +1,5 @@
+# Code of Condct for the Covid-19-BH20 Event
+
 As a community we welcome everyone, and encourage a friendly and positive environment.
 
 This code of conduct outlines our expectations for participants within the
