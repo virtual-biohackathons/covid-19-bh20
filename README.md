@@ -65,7 +65,7 @@ We will organize goals and mini-publications for each group. Contributors will g
 # Code of conduct
 
 Anyone participating agrees to abide by the code of conduct as given
-stated on our [Code of Conduct](./CODE_OF_CONDUCT.md). Please bring any concerns to the immediate attention of our
+by [Code of Conduct](./CODE_OF_CONDUCT.md). Please bring any concerns to the immediate attention of our
 coordinating team:
 
 # Coordinating team
