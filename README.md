@@ -65,15 +65,14 @@ We will organize goals and mini-publications for each group. Contributors will g
 # Code of conduct
 
 Anyone participating agrees to abide by the code of conduct as given
-by [FOSDEM 2020](https://fosdem.org/2020/practical/conduct/). Here,
-please bring any concerns to the immediate attention of our
+stated on our [Code of Conduct](./CODE_OF_CONDUCT.md). Please bring any concerns to the immediate attention of our
 coordinating team:
 
 # Coordinating team
 
-1. Pjotr Prins, USA (pjotr.public708@thebird.nl)
-2. [Tazro Ohta](https://github.com/inutano), Japan (t.ohta@dbcls.rois.acjp)
-3. Leyla Garcia, Germany
+1. Pjotr Prins, USA (pjotr.public708 at thebird.nl)
+2. [Tazro Ohta](https://github.com/inutano), Japan (t.ohta at dbcls.rois.ac.jp)
+3. Leyla Garcia, Germany (ljgarciaco at gmail.com)
 
 # Contribute
 
