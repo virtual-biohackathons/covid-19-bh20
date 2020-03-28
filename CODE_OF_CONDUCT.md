@@ -72,7 +72,8 @@ disabilities.
 ### Reporting Issues
 
 If you experience or witness unacceptable behavior, or have any other concerns,
-please report it by contacting the organisers - <ADD EMAIL OF A DESIGNATED MEMBERS>.
+please report it by contacting the organisers:
+- <ADD EMAIL OF A DESIGNATED MEMBERS>.
 
 To report an issue involving one of the members, please email other members individually.
 
@@ -98,4 +99,4 @@ purpose of protecting victims of abuse.
 
 ### Attribution & Acknowledgements
 
-This code of conduct is based on the Open Code of Conduct from the TODOGroup.
+This code of conduct is based on the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/).
