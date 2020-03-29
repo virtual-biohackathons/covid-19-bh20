@@ -73,7 +73,7 @@ disabilities.
 
 If you experience or witness unacceptable behavior, or have any other concerns,
 please report it by contacting the organisers:
-- <ADD EMAIL OF A DESIGNATED MEMBERS>.
+Leyla Garcia (email: ljgarciaco@gmail.com), Pjotr Prins (email: pjotr.public708@thebird.nl) and Tazro Ohta (email: t.ohta@dbcls.rois.ac.jp).
 
 To report an issue involving one of the members, please email other members individually.
 
