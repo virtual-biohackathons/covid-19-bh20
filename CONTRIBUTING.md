@@ -59,7 +59,7 @@ We have community-based list of available [datasets and tools](./datasets_and_to
 
 ## Are there more ways to participate?
 
-**ADD DETAILS**
+Other than joining the conversation and contributing to any of the topics, you can also offer additional compute support, or data or tools. For instance, [ELIXIR Europe](https://elixir-europe.org/) and [Galaxy](https://galaxyproject.org/) have kindly agreed to contribute with cloud resources, servers and others.  See the section above related to datasets and compute resources.
 
 Do you have other ideas for contributions? Contact the organisers Leyla Garcia (email: ljgarciaco@gmail.com), Pjotr Prins (email: pjotr.public708@thebird.nl) and 
 Tazro Ohta (email: t.ohta@dbcls.rois.ac.jp)
