@@ -18,7 +18,7 @@ and  Tazro Ohta (email: t.ohta@dbcls.rois.ac.jp).
 
 **ADD MISSING DETAILS**
 
-## How can I participate in this project/event?
+## How can I participate at this BioHackathon community during and after the event?
 
 Join the [Google group mailing list](https://groups.google.com/forum/#!forum/virtual-biohackathon) and the [virtualbiohackathoncovid19 slack](https://join.slack.com/t/virtualbiohac-xt62674/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg) and join the conversation! No approval needed. 
 
