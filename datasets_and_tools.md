@@ -17,3 +17,5 @@ We are using this page to compile a list of available datasets and tools. If you
 - [Pandemic Preparedness Planning for COVID-19](http://covidsim.de/), by Markus Schwehm and Martin Eichner together with the Landesgesundheitsamt Baden-Württemberg/Germany
 - [Models repo by Pedro Mendes of University of Connecticut](https://github.com/pmendes/COVID19)
 - [Worldometers COVID19 real-time stats](https://www.worldometers.info/coronavirus/)
+- [Bioinformatics resources for SARS-CoV-2 from Clinical Bioinformatics Area from FPS (Junta de Andalucía, Spain)](http://www.clinbioinfosspa.es/CovidResources)
+- [Cheminformatics from quarantine: some interactive COVID-19 resources](https://cheminf20.org/2020/03/28/cheminformatics-from-quarantine-some-interactive-covid-19-resources/)
