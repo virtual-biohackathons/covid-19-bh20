@@ -36,7 +36,9 @@ Contact, via the mailing list or slack, the community working on that project an
 
 ## How can I join the mailing list and participate in an ongoing conversation?
 
-**ADD DETAILS**
+The mailing list works via a Google group, so by [joining the group](https://groups.google.com/forum/#!forum/virtual-biohackathon) you will get new messages and will be allowed to post.
+
+We also have a [slack]((https://virtualbiohac-xt62674.slack.com/join/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg)) where channels (commonly corresponding to groups/topics/projects) are created and people can join and contribute to the discussion.
 
 ## How can join a project during the hackthon?
 - When you’ve found a project you’d like to contribute to, 
