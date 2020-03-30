@@ -7,7 +7,7 @@ You can report mistakes and errors, propose a project, offer dataset and resourc
 
 Whatever is your background, there is a way to contribute on this [GitHub repository](https://github.com/virtual-biohackathons/covid-19-bh20), 
 on our [mailing list](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/virtual-biohackathon)
-or other [related projects listed on our wiki page](https://github.com/virtual-biohackathons/covid-19-bh20/wiki).
+, other [related projects listed on our wiki page](https://github.com/virtual-biohackathons/covid-19-bh20/wiki) or via [slack conversations](https://virtualbiohac-xt62674.slack.com/join/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg).
 
 You can raise any issue relevant to this project/event publicly in the mailing list (google group), we will address and/or assess your change proposal as promptly as we
 can to make your participation easier.
