@@ -72,8 +72,8 @@ disabilities.
 ### Reporting Issues
 
 If you experience or witness unacceptable behavior, or have any other concerns,
-please report it by contacting the organisers:
-Leyla Garcia (email: ljgarciaco@gmail.com), Pjotr Prins (email: pjotr.public708@thebird.nl) and Tazro Ohta (email: t.ohta@dbcls.rois.ac.jp).
+please report it by contacting the CoC committee:
+Jennifer Harrow (email: jen.harrow@elixir-europe.org), Katharina Lauer (email: katharina.lauer@elixir-europe.org).
 
 To report an issue involving one of the members, please email other members individually.
 

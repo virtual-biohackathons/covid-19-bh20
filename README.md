@@ -86,3 +86,8 @@ Sign up with the [mailing list](https://groups.google.com/forum/#!forum/virtual-
 [![Twitter covid_19_bh20](./twitter.gif "covid_19_bh20") #covid_19_bh20](https://twitter.com/search?q=%23covid_19_bh20)
 
 ![BH logo](./covid-19-bh20.png "covid-19-bh20")
+
+# Acknowledgements
+
+* [ELIXIR Europe](https://elixir-europe.org/) and [Galaxy](https://galaxyproject.org/) have kindly agreed to provide computing resources
+* [Slack](https://slack.com/) has kindly provided the full Slack version free of charge for up to 90 days.
