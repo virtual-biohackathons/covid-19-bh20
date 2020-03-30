@@ -54,7 +54,8 @@ People are pointing to data or offering compute resources via email. A dedicated
 
 ## What data protection policies and licenses are applied?
 
-**ADD DETAILS**
+- As different datasets, tools and resources will be used, we, therefore, encourage you to double-check for any limitations the data and tools you are using. Wherever possible please document those limitations and how you are troubleshooting those issues within your team. 
+- A lot of freely available and open access initiatives have been put in place as a way to contribute to solutions around COVID-19. If the dataset/tool you want to use has any restrictions, please contact the responsible team/owner. If the owners can not relax their regular policies/licenses for the use in this hackathon, please find an alternative data/tool to use. Make sure that you document these restrictions to be shared with your team members and anyone who would like to join your team during the hackathon or use your work afterwards.
 
 ## Are there more ways to participate?
 
