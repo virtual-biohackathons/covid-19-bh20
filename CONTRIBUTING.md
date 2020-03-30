@@ -16,7 +16,10 @@ We have a [Code of Conduct](https://github.com/virtual-biohackathons/covid-19-bh
 For any organisation related queries or concern, you can directly reach out to the organisers Leyla Garcia (email: ljgarciaco@gmail.com), Pjotr Prins (email: pjotr.public708@thebird.nl) 
 and  Tazro Ohta (email: t.ohta@dbcls.rois.ac.jp). 
 
-**ADD MISSING DETAILS**
+- With such a large group of participants, we are encouraging a bottom-up approach, where groups are formed around projects/topics and work (kind of) independently from others. 
+- If you need any information from another group/topic, you can always reach people via email or slack (please note that as the hacking starts, Slack might become more interactive, you can also directly ping people there, be patient please and re-ping if needed or look for an alternative contact). 
+- Every group/topic will have leader/coordinator/facilitator, please check the wiki to get more information (as we get close to the hacking week, we expect the wiki to change quickly and people to add more group/topic details there). 
+- We also expect group/topic leaders/coordinators/facilitators to provide a quick (daily if possible) summary via the wiki so everybody can get an idea on it.
 
 ## How can I participate at this BioHackathon community during and after the event?
 
