@@ -45,7 +45,7 @@ do a quick scan to make sure that the project is suitable for accepting contribu
 
 ## How can I offer dataset and other compute resources?
 
-**ADD DETAILS**
+People are pointing to data or offering compute resources via email. A dedicated wiki entry will include more details on the known/available data and compute resources.
 
 ## ADD MORE WAYS TO PARTCIPATE
 
