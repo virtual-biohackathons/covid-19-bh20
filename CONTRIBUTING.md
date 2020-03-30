@@ -50,7 +50,7 @@ People are pointing to data or offering compute resources via email. A dedicated
 
 ## How can I use dataset and other compute resources? 
 
-**ADD DETAILS**
+We have community-based list of available [datasets and tools](./datasets_and_tools.md) as well as a list of [computing resources](./compute_resources.md). Please visit those pages for more information.
 
 ## What data protection policies and licenses are applied?
 
