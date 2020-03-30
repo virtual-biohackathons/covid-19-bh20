@@ -20,7 +20,11 @@ and  Tazro Ohta (email: t.ohta@dbcls.rois.ac.jp).
 
 ## How can I participate in this project/event?
 
-**ADD DETAILS**
+Join the [Google group mailing list](https://groups.google.com/forum/#!forum/virtual-biohackathon) and the [virtualbiohackathoncovid19 slack](https://join.slack.com/t/virtualbiohac-xt62674/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg) and join the conversation! No approval needed. 
+
+Please have a look at the [GitHub wiki](https://github.com/virtual-biohackathons/covid-19-bh20/wiki) to see the existing projects. 
+This will help you identify possible ways to contribute to. 
+Contact, via the mailing list or slack, the community working on that project and let them know of your interest and how you would like to participate. Conversation and collaboration will start from it.
 
 ## How can I fix something on the repository?
 
