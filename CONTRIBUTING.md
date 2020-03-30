@@ -41,7 +41,7 @@ Contact, via the mailing list or slack, the community working on that project an
 ## How can join a project during the hackthon?
 - When you’ve found a project you’d like to contribute to, 
 do a quick scan to make sure that the project is suitable for accepting contributions. 
-**ADD DETAILS**
+The earlier you join a group the better. Commonly, groups/topics are created on slack, so please have a look there to see if the group/topic you are interested in is already there. If not, go to general or COVID-19 and raise a question on how to join that group/topic/project. Someone will point you in the right direction. 
 
 ## How can I offer dataset and other compute resources?
 
