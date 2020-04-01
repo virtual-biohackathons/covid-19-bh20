@@ -28,7 +28,7 @@ Join the [Google group mailing list](https://groups.google.com/forum/#!forum/vir
 - When you’ve found a project you’d like to contribute to, 
 do a quick scan to make sure that the project is suitable for accepting contributions.
 - Commonly, channels are created on our Slack workspace, so please have a look there to see if the group/topic you are interested in is already there. 
-- If there is no channel, go to general or COVID-19 mailing list and raise a question on how to join that group/topic/project. Members working on that project would help you participate.
+- If there is no channel, go to "general" slack channel or [COVID-19 Google group mailing list](https://groups.google.com/forum/#!forum/virtual-biohackathon) and raise a question on how to join that group/topic/project. Members working on that project would help you participate.
 
 ## How can I fix something on the repository?
 
