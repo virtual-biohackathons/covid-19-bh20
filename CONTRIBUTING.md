@@ -23,7 +23,7 @@ and  Tazro Ohta (email: t.ohta@dbcls.rois.ac.jp).
 
 Join the [Google group mailing list](https://groups.google.com/forum/#!forum/virtual-biohackathon) and the [virtualbiohackathoncovid19 slack](https://join.slack.com/t/virtualbiohac-xt62674/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg) and join the conversation! No approval needed. 
 
-## How can join the hackthon?
+## How can I join the hackathon?
 - Please have a look at the [GitHub wiki](https://github.com/virtual-biohackathons/covid-19-bh20/wiki) to see the existing projects. 
 - When you’ve found a project you’d like to contribute to, 
 do a quick scan to make sure that the project is suitable for accepting contributions.
