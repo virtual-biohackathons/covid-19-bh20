@@ -44,7 +44,7 @@ The mailing list works via a Google group, so by [joining the group](https://gro
 
 We also have a [slack]((https://virtualbiohac-xt62674.slack.com/join/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg)) where channels (commonly corresponding to groups/topics/projects) are created and people can join and contribute to the discussion.
 
-## How can I offer dataset and other compute resources? What are the data protection policy?
+## How can I offer dataset and other compute resources? What are the data protection policies?
 
 People are pointing to data or offering compute resources via email. A dedicated wiki entry will include more details on the known/available data and compute resources.
 
