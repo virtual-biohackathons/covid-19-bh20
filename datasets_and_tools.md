@@ -1,6 +1,6 @@
 # Available resources
 
-We are using this page to compile a list of available datasets and tools. If you are intersted in compute resources, please visit [./compute_resources.md]. Please bear in mind that this list comes from the community and given the pace things are moving, it could become out-of-date quite easy. If you know of any dataset or tool not listed here, please add it. And always remember to double check the usage policies and licenses before using someone else's data or tool. Topics/groups might include a subset of the lists included here as some will be more relevant than others depending the topic/group.
+We are using this page to compile a list of available datasets and tools. If you are intersted in compute resources, please visit the [Compute Resources page](https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/compute_resources.md). Please bear in mind that this list comes from the community and given the pace things are moving, it could become out-of-date quite easy. If you know of any dataset or tool not listed here, please add it. And always remember to double check the usage policies and licenses before using someone else's data or tool. Topics/groups might include a subset of the lists included here as some will be more relevant than others depending the topic/group.
 
 ## Datasets 
 - [Johns Hopkins repo](https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports)
@@ -22,6 +22,9 @@ We are using this page to compile a list of available datasets and tools. If you
 - [R package for the data colated by Johns Hopkins](https://github.com/rOpenStats/COVID19)
 - [Penn Medicine - COVID19 Hospital Impact Model for Epidemics](https://penn-chime.phl.io/)
 - [Epidemic Calculator by Gabriel Goh](https://gabgoh.github.io/COVID/)
+- [Error estimates in SIR model predictions, ETH Zurich](https://cse-lab.ethz.ch/coronavirus/)
+- [COVID-19 Scenario simulator, University of Basel](https://neherlab.org/covid19/)
+  - [GitHub repo](https://github.com/neherlab/covid19_scenarios)
 - [Pandemic Preparedness Planning for COVID-19](http://covidsim.de/), by Markus Schwehm and Martin Eichner together with the Landesgesundheitsamt Baden-Württemberg/Germany
 - [Worldometers COVID19 real-time stats](https://www.worldometers.info/coronavirus/)
 - [Bioinformatics resources for SARS-CoV-2 from Clinical Bioinformatics Area from FPS (Junta de Andalucía, Spain)](http://www.clinbioinfosspa.es/CovidResources)
@@ -34,10 +37,12 @@ We are using this page to compile a list of available datasets and tools. If you
    - [Nexstrain narrative](https://nextstrain.org/ncov)
 
 
-## Models
+## Models / Methods
 
 - [Models repo by Pedro Mendes of University of Connecticut](https://github.com/pmendes/COVID19)
 - [Potential Long-Term Intervention Strategies for COVID-19](https://covid-measures.github.io/)
+- [Projecting the Spread of COVID19 for German (medrxiv)](https://www.medrxiv.org/content/10.1101/2020.03.26.20044214v1)
+- [Contagiousness of COVID-19 Part I: Improvements of Mathematical Fitting](https://www.r-bloggers.com/contagiousness-of-covid-19-part-i-improvements-of-mathematical-fitting-guest-post/)
 
 
 ## R packages
