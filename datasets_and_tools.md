@@ -15,6 +15,7 @@ We are using this page to compile a list of available datasets and tools. If you
 - [COVID Epidemiology](https://covid19.fyi/#/)  
 - [NY Times data](https://github.com/nytimes/covid-19-data)
 - [NHS Covid19 symptom tracker](https://covid.joinzoe.com/)
+- []
 
 
 ## Tools
@@ -29,7 +30,10 @@ We are using this page to compile a list of available datasets and tools. If you
 - [Worldometers COVID19 real-time stats](https://www.worldometers.info/coronavirus/)
 - [Bioinformatics resources for SARS-CoV-2 from Clinical Bioinformatics Area from FPS (Junta de Andalucía, Spain)](http://www.clinbioinfosspa.es/CovidResources)
 - [Cheminformatics from quarantine: some interactive COVID-19 resources](https://cheminf20.org/2020/03/28/cheminformatics-from-quarantine-some-interactive-covid-19-resources/)
-
+- [epydemic, a Python library for modeling epidemic processes on networks](https://github.com/simoninireland/epydemic)
+- [SEIRS+, a Python library for modeling epidemic processes on networks](https://github.com/ryansmcgee/seirsplus)
+- [NDlib, a Python library for modeling stochastic processes on networks](https://github.com/GiulioRossetti/ndlib)
+- [nlopt, a general-purpose library for optimization, includes a Python interface](https://nlopt.readthedocs.io/)
 
 ## Workflows
 - [Galaxy workflows. A lot is here already! Check for overlap.](https://covid19.galaxyproject.org/genomics/)
