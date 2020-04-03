@@ -29,15 +29,15 @@ your account.
 ### What can you do with it?
 
 * Manage data
-** Upload/download files from browser, command line, or SDK
-** Identify collections of files by name, uuid, or content address (hash)
-** Set and query structured metadata on collections of files
-** Share projects with other users and groups
+ * Upload/download files from browser, command line, or SDK
+ * Identify collections of files by name, uuid, or content address (hash)
+ * Set and query structured metadata on collections of files
+ * Share projects with other users and groups
 * Run CWL workflows
-** Scale-out across compute nodes, run workflows from multiple users
+ * Scale-out across compute nodes, run workflows from multiple users
 * A foundation to build other applications
-** Use the APIs for data storage and access, permissions, running workflows, etc
-** We can also spin up servers for teams building web apps, just ask!
+ * Use the APIs for data storage and access, permissions, running workflows, etc
+ * We may be able to spin up servers for teams building web apps, just ask!
 
 ### Learn more
 
