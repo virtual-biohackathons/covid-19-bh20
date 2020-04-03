@@ -15,7 +15,6 @@ We are using this page to compile a list of available datasets and tools. If you
 - [COVID Epidemiology](https://covid19.fyi/#/)  
 - [NY Times data](https://github.com/nytimes/covid-19-data)
 - [NHS Covid19 symptom tracker](https://covid.joinzoe.com/)
-- []
 
 
 ## Tools
