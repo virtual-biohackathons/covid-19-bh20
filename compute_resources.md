@@ -11,3 +11,39 @@ Galaxy can be accessed and controlled via a rich API. For example via Python usi
 With https://live.usegalaxy.eu the Galaxy project is also offering Juypter Notebooks or RStudio instances for everyone that needs external compute resources. Those environments can access the storage resources from Galaxy and therefor permanent storage that can easily linked to Notebooks.
 
 If you have any questions or problems, please contact `galaxy@informatik.uni-freiburg.de`.
+
+## Arvados instance (https://biohackathon.curii.com)
+
+Arvados is an open source platform for managing biomedical data and
+running Common Workflow Language (CWL) workflows on that data.  It has
+both web-based and command line user interfaces available.  Curii has
+set up an instance of the Arvados platform to support the virtual
+Biohackathon.
+
+https://biohackathon.curii.com
+
+Requires Google account to log in.  After you have created an account,
+ask @Peter Amstutz or @Michael Crusoe on the biohackathon Slack
+(#tech-helpdesk or #workflows) to activate your account.
+
+### What can you do with it?
+
+* Manage data
+  * Upload/download files from browser, command line, or SDK
+  * Identify collections of files by name, uuid, or content address (hash)
+  * Set and query structured metadata on collections of files
+  * Share projects with other users and groups
+* Run CWL workflows
+  * Scale-out across compute nodes, run workflows from multiple users
+* A foundation to build other applications
+  * Use the APIs for data storage and access, permissions, running workflows, etc
+  * We may be able to spin up servers for teams building web apps, just ask!
+
+### Learn more
+
+During the biohackathon
+
+* We will do an Arvados training (TBD)
+* We will share the slides used for the training
+* We will be on the biohackathon Slack at #tech-helpdesk and Gitter at
+  https://gitter.im/arvados/community to answer questions
