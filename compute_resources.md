@@ -16,15 +16,15 @@ If you have any questions or problems, please contact `galaxy@informatik.uni-fre
 
 Arvados is an open source platform for managing biomedical data and
 running Common Workflow Language (CWL) workflows on that data.  It has
-both web-based and command line user interfaces available.  Thanks to
-generous support from AWS, Curii has set up an instance of the Arvados
-platform to support the virtual Biohackathon.
+both web-based and command line user interfaces available.  Curii has
+set up an instance of the Arvados platform to support the virtual
+Biohackathon.
 
 https://biohackathon.curii.com
 
 Requires Google account to log in.  After you have created an account,
-ask @Peter Amstutz or @Michael Crusoe on the biohackathon Slack to activate
-your account.
+ask @Peter Amstutz or @Michael Crusoe on the biohackathon Slack
+(#tech-helpdesk or #workflows) to activate your account.
 
 ### What can you do with it?
 
