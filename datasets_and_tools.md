@@ -29,6 +29,7 @@ We are using this page to compile a list of available datasets and tools. If you
 - [Worldometers COVID19 real-time stats](https://www.worldometers.info/coronavirus/)
 - [Bioinformatics resources for SARS-CoV-2 from Clinical Bioinformatics Area from FPS (Junta de Andalucía, Spain)](http://www.clinbioinfosspa.es/CovidResources)
 - [Cheminformatics from quarantine: some interactive COVID-19 resources](https://cheminf20.org/2020/03/28/cheminformatics-from-quarantine-some-interactive-covid-19-resources/)
+- [ZEQ Szenario Calculator/ZEQ Szenarienrechner](https://www.zeq.de/fileadmin/Medien/Bilder/Grafiken/COVID/ZEQ-COVID19-Szenariorechner_Version_2.2_30.03.2020.xlsx) from Munich Hospital Collaboration; more information [here](https://www.zeq.de/unternehmen/aktuelles/newsdetails/article/zeq-covid19-szenariorechner-zum-betten-und-personalbedarf-verfuegbar.html) and [here](https://www.zeq.de/covid-19/corona-virus-covid-19/covid-19-szenariorechner.html)
 - [epydemic, a Python library for modeling epidemic processes on networks](https://github.com/simoninireland/epydemic)
 - [SEIRS+, a Python library for modeling epidemic processes on networks](https://github.com/ryansmcgee/seirsplus)
 - [NDlib, a Python library for modeling stochastic processes on networks](https://github.com/GiulioRossetti/ndlib)
