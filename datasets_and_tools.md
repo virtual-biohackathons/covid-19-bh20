@@ -2,6 +2,9 @@
 
 We are using this page to compile a list of available datasets and tools. If you are intersted in compute resources, please visit the [Compute Resources page](https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/compute_resources.md). Please bear in mind that this list comes from the community and given the pace things are moving, it could become out-of-date quite easy. If you know of any dataset or tool not listed here, please add it. And always remember to double check the usage policies and licenses before using someone else's data or tool. Topics/groups might include a subset of the lists included here as some will be more relevant than others depending the topic/group.
 
+## Tutorials
+- [Peterjc's Biopython Introductory workshop](https://github.com/peterjc/biopython_workshop)
+
 ## Datasets 
 - [Johns Hopkins repo](https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports)
 - [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
