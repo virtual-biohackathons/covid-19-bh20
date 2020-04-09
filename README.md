@@ -91,3 +91,4 @@ Sign up with the [mailing list](https://groups.google.com/forum/#!forum/virtual-
 
 * [ELIXIR Europe](https://elixir-europe.org/) and [Galaxy](https://galaxyproject.org/) have kindly agreed to provide computing resources
 * [Slack](https://slack.com/) has kindly provided the full Slack version free of charge for up to 90 days.
+* [Curii, Inc.](https://www.curii.com/) has provided engineering time to setup the [biohackathon.curii.com](https://biohackathon.curii.com) instance of the [Arvados](https://www.arvados.org) workflow platform.
