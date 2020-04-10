@@ -26,6 +26,20 @@ Requires Google account to log in.  After you have created an account,
 ask @Peter Amstutz or @Michael Crusoe on the biohackathon Slack
 (#tech-helpdesk or #workflows) to activate your account.
 
+## ELIXIR Compute Platform Resources
+
+ELIXIR Nodes run [computing services](https://elixir-europe.org/services/tag/compute) that can be accessed by research projects. Many additional computing resources have been made available to support COVID-19 research projects including: 
+  * Access to Docker Orchestrators including Mesos and OpenStack access, Kubernetes/OKD and potentially GPUs where needed. For access request & other queries please join  `#elixir-resources`slack [channel](https://join.slack.com/share/I0113JB2P9Q/tHQPzqdxPXJjPpAcRrNJxwt5/enQtMTAzNzYyMzA5MTMzMC1jYmI1MTkzNGQ2ZTZiMTExZjhmYTQzNGMyNDllOWYwOTAyZDllNmEyNTkwNGM1NTE5NTllNDVkMzljMmY4ZWM1)
+  * [de.NBI cloud, ELIXIR-Germany](https://www.denbi.de/news/866-de-nbi-cloud-resources-available-to-fight-covid-19) provides priority access for projects relating to COVID-19
+  * CSC (ELIXIR-Finland) has [prioritised access](https://www.csc.fi/-/resursseja-covid-19-pandemian-vastaiseen-tutkimukseen) to its [cloud services](https://research.csc.fi/computing) for COVID-19 research 
+  * [e-INFRA CZ](https://e-infra.cz) (ELIXIR-Czech) offer relaxed access conditions to supercomputer resources, storage services and distributed compute resources
+  * A specific Galaxy COVID-19 instance for genomic analysis is available through [Laniakea](https://laniakea-elixir-it.github.io/2020/03/27/covid19-docker-flavor.html), ELIXIR Italy’s on-demand platform 
+  * EMBL-EBI located in the UK is contributing [EMBASSY Cloud resources](https://www.embassycloud.org) as detailed on the European Open Science Cloud, [EOSC Marketplace](https://marketplace.eosc-portal.eu/services/embassy-cloud)
+  * SIB (ELIXIR-Swiss) is providing a ready-to-use slurm workload manager with a scientific software stack via the [ExPASy SIB Portal](https://www.expasy.org/)
+  * ELIXIR-Swiss and ELIXIR-Finland have provided a common Virtual Machine (VM) that contains key resources in a single directory for the Gene Expression hackathon group but should be extensible to e.g. collaborative teams and wider hackathon type events. This helps lower technical barriers and get more people involved more quickly.
+  * [IFB (ELIXIR France)](https://www.france-bioinformatique.fr/en/action-covid-19) is providing a [federated set of high performance compute and cloud resources](https://www.france-bioinformatique.fr/en/infrastructure-0) including national and regional servers
+
+
 ### What can you do with it?
 
 * Manage data
